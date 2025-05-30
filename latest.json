@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": { 
       "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_aarch64.dmg",
-      "signature": "base64-encoded-signature" 드
+      "signature": "base64-encoded-signature"
     },
     "darwin-x86_64": { 
       "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_x86_64.dmg",
