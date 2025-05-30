@@ -1,11 +1,15 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.0",  
   "notes": "Initial release",
   "pub_date": "2025-05-30T15:00:00Z",
   "platforms": {
-    "darwin": {
-      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_universal.dmg",
-      "signature": "base64-encoded-signature"
+    "darwin-aarch64": { 
+      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_aarch64.dmg",
+      "signature": "base64-encoded-signature" 드
+    },
+    "darwin-x86_64": { 
+      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_x86_64.dmg",
+      "signature": "base64-encoded-signature" 
     }
   }
 }
