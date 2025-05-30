@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": { 
       "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_universal.dmg",
-      "signature": "untrusted comment: signature from minisign secret key\nRUTTD+W8qF+vVfP39mJFhYxTrSQxEcoz7uMkBfLQ3r4cMVQXjLHIuESHyzJ/8cdOFsZXqo+++OUZoIovzAVbeO2JENc60gDtBQ8=\ntrusted comment: timestamp:1748613302	file:deeptrue_0.1.0_universal.dmg	hashed\nyvc4V4ab7SAEsf8upWFr21Bk6Vj1u31ic+xby2tv6gjeRNcALOMndb6kcKE4KrqeEy/mNigv3H+kJi9leQUhCw=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUmlQZHZhRGlrU2pSbjRHc0E4YWEwaXdVRS9CL1M3aVEwRkVCT1RHYnZNY2Yra3VsSnFJa0ZncEdVcEJPaFBwS1NSbmszYThqZkFXQWgwTXVNMkRtMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjA5NzkzCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpOSW5oMlk1YUV3YnZLc2xCTUlnYU9BbWJrRkw0WThXeFRiWStqeTJqQUlFQmpKQzJ1cWJzcVVNTXI3bFc5SHAwVEFBSDFWMzdIRjRpbGkwaUJjY01CQT09Cg=="
     },
     "darwin-x86_64": { 
       "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_universal.dmg",
-      "signature": "untrusted comment: signature from minisign secret key\nRUTTD+W8qF+vVfP39mJFhYxTrSQxEcoz7uMkBfLQ3r4cMVQXjLHIuESHyzJ/8cdOFsZXqo+++OUZoIovzAVbeO2JENc60gDtBQ8=\ntrusted comment: timestamp:1748613302	file:deeptrue_0.1.0_universal.dmg	hashed\nyvc4V4ab7SAEsf8upWFr21Bk6Vj1u31ic+xby2tv6gjeRNcALOMndb6kcKE4KrqeEy/mNigv3H+kJi9leQUhCw=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUmlQZHZhRGlrU2pSbjRHc0E4YWEwaXdVRS9CL1M3aVEwRkVCT1RHYnZNY2Yra3VsSnFJa0ZncEdVcEJPaFBwS1NSbmszYThqZkFXQWgwTXVNMkRtMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjA5NzkzCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpOSW5oMlk1YUV3YnZLc2xCTUlnYU9BbWJrRkw0WThXeFRiWStqeTJqQUlFQmpKQzJ1cWJzcVVNTXI3bFc5SHAwVEFBSDFWMzdIRjRpbGkwaUJjY01CQT09Cg=="
     }
   }
 }
