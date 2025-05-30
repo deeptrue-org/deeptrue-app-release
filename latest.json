@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",  
-  "notes": "Initial release",
+  "version": "0.1.0",
+  "notes": "Initial private beta release",
   "pub_date": "2025-05-30T15:00:00Z",
   "platforms": {
-    "darwin-aarch64": { 
-      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_universal.dmg",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUmlQZHZhRGlrU2pSbjRHc0E4YWEwaXdVRS9CL1M3aVEwRkVCT1RHYnZNY2Yra3VsSnFJa0ZncEdVcEJPaFBwS1NSbmszYThqZkFXQWgwTXVNMkRtMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjA5NzkzCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpOSW5oMlk1YUV3YnZLc2xCTUlnYU9BbWJrRkw0WThXeFRiWStqeTJqQUlFQmpKQzJ1cWJzcVVNTXI3bFc5SHAwVEFBSDFWMzdIRjRpbGkwaUJjY01CQT09Cg=="
+    "darwin-aarch64": {
+      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUm9IRVVEMnFFNTVVVDl1NlRNNlR4c0Z6NEdOekY5NllwdE5IVlpsS0tuVXZoOE5peWhNMU9LclRhbC93UTFtQXNWKytGMjZhT1Npa3FVSE92Mkppb2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjMyOTM3CWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpGcTVSeXFpUFBGSkZCV3Q3dUlsUUNyNHhhMWQzbFByY05JeXVyUXdMQ1hOZDJkN1RmN0EvUmJ4Zjg1dDVTTVA0ZXc3bUdqclR1RXo4Q01pcXh3c05BQT09Cg=="
     },
-    "darwin-x86_64": { 
-      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue_0.1.0_universal.dmg",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUmlQZHZhRGlrU2pSbjRHc0E4YWEwaXdVRS9CL1M3aVEwRkVCT1RHYnZNY2Yra3VsSnFJa0ZncEdVcEJPaFBwS1NSbmszYThqZkFXQWgwTXVNMkRtMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjA5NzkzCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpOSW5oMlk1YUV3YnZLc2xCTUlnYU9BbWJrRkw0WThXeFRiWStqeTJqQUlFQmpKQzJ1cWJzcVVNTXI3bFc5SHAwVEFBSDFWMzdIRjRpbGkwaUJjY01CQT09Cg=="
+    "darwin-x86_64": {
+      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUm9IRVVEMnFFNTVVVDl1NlRNNlR4c0Z6NEdOekY5NllwdE5IVlpsS0tuVXZoOE5peWhNMU9LclRhbC93UTFtQXNWKytGMjZhT1Npa3FVSE92Mkppb2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjMyOTM3CWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpGcTVSeXFpUFBGSkZCV3Q3dUlsUUNyNHhhMWQzbFByY05JeXVyUXdMQ1hOZDJkN1RmN0EvUmJ4Zjg1dDVTTVA0ZXc3bUdqclR1RXo4Q01pcXh3c05BQT09Cg=="
     }
   }
 }
