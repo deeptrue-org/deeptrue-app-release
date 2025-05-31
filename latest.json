@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial private beta release",
-  "pub_date": "2025-05-30T15:00:00Z",
+  "version": "0.1.1",
+  "notes": "Added onboarding flow",
+  "pub_date": "2025-05-31T15:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUmhsUmUwR09UZCtKZWNoc0l0RXRKTml2QTJlUkdQc0wyTnAxMytWSFV1bWVTTnBBL05maXBFdGZwSFBrQUZ2cnVjbE9McVhRZ0R4UFg2NkdZeGhpWXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjM5MDkyCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpwYm8vSWgxVkVRTHJpQml3ZWRqeHpDWTdJVVNKQXVVQVVsdjBBVDd2WnZjOEk0MWh4RElBUGc3NzJuRGo1aDUxc2lqck0xVHRlbng5RjBZZUhzSXZCQT09Cg=="
+      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.1/deeptrue.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUnFKQ3ZFVnh3MEFMRkJ0NHFkRzFSd3Raak5DWjN1TXFpWmo1RHRtNFRMeVdvaU84TmtaN1hGUE5KOU9wbi9TaXh5eWZOa0ZOZjkzR21BZHhaK1c5VmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjgyNzAxCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpwLzNjdGg5ZCtxNVlNSG1OTXVlMG81WEFVZ003SHdkMGw4SENnNjl1YklmNkJ4YVF6N3NDYytvK3hyQ2gzVlRIUDRNQ3ZQU0oxNDV0aGlZYTVZaWZDZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.0/deeptrue.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUmhsUmUwR09UZCtKZWNoc0l0RXRKTml2QTJlUkdQc0wyTnAxMytWSFV1bWVTTnBBL05maXBFdGZwSFBrQUZ2cnVjbE9McVhRZ0R4UFg2NkdZeGhpWXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjM5MDkyCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpwYm8vSWgxVkVRTHJpQml3ZWRqeHpDWTdJVVNKQXVVQVVsdjBBVDd2WnZjOEk0MWh4RElBUGc3NzJuRGo1aDUxc2lqck0xVHRlbng5RjBZZUhzSXZCQT09Cg=="
+      "url": "https://github.com/deeptrue-org/deeptrue-app-release/releases/download/v0.1.1/deeptrue.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbnRGTUZtNk9qUnFKQ3ZFVnh3MEFMRkJ0NHFkRzFSd3Raak5DWjN1TXFpWmo1RHRtNFRMeVdvaU84TmtaN1hGUE5KOU9wbi9TaXh5eWZOa0ZOZjkzR21BZHhaK1c5VmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NjgyNzAxCWZpbGU6ZGVlcHRydWUuYXBwLnRhci5negpwLzNjdGg5ZCtxNVlNSG1OTXVlMG81WEFVZ003SHdkMGw4SENnNjl1YklmNkJ4YVF6N3NDYytvK3hyQ2gzVlRIUDRNQ3ZQU0oxNDV0aGlZYTVZaWZDZz09Cg=="
     }
   }
 }
